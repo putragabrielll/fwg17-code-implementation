@@ -29,9 +29,9 @@ console.log(temp2);
 
 
 console.log(typeof ('' + 113))
-console.log('' + 113)
-'113'
+console.log('2' + 113)
+'2113'
 
 console.log(typeof (113 - ''))
-console.log(113 - '')
-113
+console.log(113 - '2')
+2113
