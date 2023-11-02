@@ -27,11 +27,23 @@ if (typeof kalimat == "string") {
 console.log(temp2);
 
 
-
+// test pengoperasian
 console.log(typeof ('' + 113))
 console.log('2' + 113)
 '2113'
 
 console.log(typeof (113 - ''))
 console.log(113 - '2')
+2113
+
+console.log(typeof (113 * ''))
+console.log(113 * '2')
+2113
+
+console.log(typeof (113 / ''))
+console.log(113 / '2')
+2113
+
+console.log(typeof (113 % ''))
+console.log(113 % '2')
 2113
