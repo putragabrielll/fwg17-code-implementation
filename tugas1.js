@@ -1,6 +1,6 @@
 let nama = 'putra'
 console.log(nama.split(''))
-console.log(nama.length)
+console.log(nama)
 
 if (typeof nama === 'string'){
     // a, r, t, u, p
