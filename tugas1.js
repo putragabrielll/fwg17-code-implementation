@@ -1,4 +1,4 @@
-let nama = 'putra'
+let nama = 'anam'
 console.log(nama.split(''))
 console.log(nama)
 
